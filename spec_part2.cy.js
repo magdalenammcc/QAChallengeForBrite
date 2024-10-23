@@ -33,7 +33,7 @@ describe('IMDb Top Box Office Rating Test', () => {
     // Check that the iframe is loaded
     cy.frameLoaded()
     
-      // Set 5-star rating
+      // Set 5-star rating, I continuously got the error message that 7 iframes were found and I needed to specify which one I wanted to use, but I couldn't
       cy.iframe('iframe's name which I can't find')
       .contains('Rate 5')
       .click();
