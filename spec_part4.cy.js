@@ -26,7 +26,7 @@ describe('IMDb Born Today - Search for Celebrities Born Yesterday', () => {
       .should('be.visible')
       .click();
 
-    // Click on "Top 250 TV Shows" from the menu
+    // Click on "Born Today" from the menu
     cy.get('[data-testid="list-container"]')
       .contains(/Born Today|Nacidos hoy/)
       .click({force:true});
