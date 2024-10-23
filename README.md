@@ -10,6 +10,7 @@
  - Firefox browser (https://www.mozilla.org/es-ES/firefox/new/)
  - cypress plug-ins: 
         - iframe (installation and use guidelines here: https://www.npmjs.com/package/cypress-iframe)
+        - dayjs (installation and use in site: https://day.js.org/docs/en/installation/installation)
 
 We'll be using Cypress in "E2E" testing configuration because we'll be testing the full app, not just individual components. 
 
