@@ -59,13 +59,13 @@ Step-by-step test execution:
 8) Select the test you would like to use in browser that cypress is automating, as shown here: 
 
 <p align="center">
-<img src="SelectSpecFile-1.png" alt="Select test file to run" width="300" height="200">
+<img src="SelectSpecFile-1.png" alt="Select test file to run" width="500" height="200">
 </p>
 
 9) And, finally, wait for the test to be completed. You will know the test is successful if you see this at the top left corner: 
 
 <p align="center">
-<img src="SuccessfulTest-1.png" alt="Image with no errors equals a successful test" width="300" height="200">
+<img src="SuccessfulTest-1.png" alt="Image with no errors equals a successful test" width="500" height="200">
 </p>
 
 10) To run the tests for a different browser, such as Firefox, please go to terminal and execute this command: 
