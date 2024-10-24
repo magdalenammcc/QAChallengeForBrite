@@ -83,7 +83,7 @@ ___
 I can imagine your face looking like this: 
 
 <p align="center">
-<img src="confused.gif" alt="Some tests are not working!" width="300" height="600">
+<img src="confused.gif" alt="Some tests are not working!" width="300" height="500">
 </p>
 
 Because the only really successful test from exercise 1 that I was able to complete was the one belonging to Part 1. 
