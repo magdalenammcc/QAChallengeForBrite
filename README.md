@@ -4,7 +4,7 @@
 
  Tasks to perform to complete the challenge can be found in the accompanying pdf file (https://github.com/magdalenammcc/QAChallengeForBrite/blob/main/2024-junior-qa-engineer-challenge.pdf)
 
- Required tools: 
+ ### Required tools: 
 
  - cypress (installation guide here: https://docs.cypress.io/app/get-started/install-cypress)
  - Chrome browser (https://www.google.com/intl/es_es/chrome/)
@@ -16,7 +16,7 @@
 
 We'll be using Cypress in "E2E" configuration because we'll be testing the full app, not just individual components. 
 
-Step-by-step test execution: 
+### Step-by-step test execution: 
 
 1) Download all files ending in *.cy.js 
 2) Copy those files in your */cypress/e2e folder
@@ -78,17 +78,21 @@ cypress run --browser firefox
 
 ___
 
+# But wait...
+
 I can imagine your face looking like this: 
 
-https://giphy.com/gifs/onechicago-nbc-chicago-fire-one-KGSxFwJJHQPsKzzFba
+<p align="center">
+<img src="confused.gif" alt="Some tests are not working!" width="300" height="200">
+</p>
 
 Because the only really successful test from exercise 1 that I was able to complete was the one belonging to Part 1. 
 
 Why? Because three tasks are blocking me:  
 
-1- get the full tree of variables to access the data that I wanted 
-2- learn how to navigate iframes in cypress
-3- correctly implement cypress's plug-in ```dayjs``` to manipulate dates automatically in cypress
+1- getting the full tree of variables to access the data that I wanted 
+2- learning how to navigate iframes in cypress
+3- correctly implementing cypress's plug-in ```dayjs``` to manipulate dates automatically in cypress
 
 I am currently getting the necessary help to overcome these blocks. 
 
@@ -109,6 +113,9 @@ Cypress.on('uncaught:exception', (err, runnable) => {
 ``` 
 
 ___
+
+
+## Final reflection
 
 I appreciate the opportunity to complete this test, and I hope my approach reflects the qualities needed for the position. 
 I have realised my need to revisit my html skills: several years of QA at backend (mainly javascript and query languages for databases)
