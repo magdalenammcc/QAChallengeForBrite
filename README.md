@@ -10,8 +10,8 @@
  - Firefox browser (https://www.mozilla.org/es-ES/firefox/new/)
  - cypress plug-ins: 
 
-        - iframe (installation and use guidelines here: https://www.npmjs.com/package/cypress-iframe)
-        - dayjs (installation and use in site: https://day.js.org/docs/en/installation/installation)
+        - iframe (installation and use guidelines [here](https://www.npmjs.com/package/cypress-iframe) 
+        - dayjs (installation and use in [site](https://day.js.org/docs/en/installation/installation)
 
 We'll be using Cypress in "E2E" configuration because we'll be testing the full app, not just individual components. 
 
@@ -74,7 +74,7 @@ ___
 
 I can imagine your face looking like this: 
 
-<iframe src="https://giphy.com/embed/KGSxFwJJHQPsKzzFba" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/onechicago-nbc-chicago-fire-one-KGSxFwJJHQPsKzzFba">via GIPHY</a></p>
+https://giphy.com/gifs/onechicago-nbc-chicago-fire-one-KGSxFwJJHQPsKzzFba
 
 Because the only really successful test from exercise 1 that I was able to complete was the one belonging to Part 1. 
 
