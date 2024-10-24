@@ -90,9 +90,9 @@ Because the only really successful test from exercise 1 that I was able to compl
 
 Why? Because three tasks are blocking me:  
 
-1- getting the full tree of variables to access the data that I wanted 
-2- learning how to navigate iframes in cypress
-3- correctly implementing cypress's plug-in ```dayjs``` to manipulate dates automatically in cypress
+1. getting the full tree of variables to access the data that I wanted 
+2. learning how to navigate iframes in cypress
+3. correctly implementing cypress's plug-in ```dayjs``` to manipulate dates automatically in cypress
 
 I am currently getting the necessary help to overcome these blocks. 
 
