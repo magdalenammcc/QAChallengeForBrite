@@ -29,7 +29,7 @@ Step-by-step test execution:
 
 5) Select "E2E Testing". Make sure it's configured, as the picture shows: 
 
-![Choose E2E Testing](CypressE2ETesting-1.png)
+<img src="CypressE2ETesting-1.png" alt="Choose E2E Testing" width="300" height="200">
 
 
 6) Select the test files in the following order: 
