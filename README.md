@@ -1,4 +1,5 @@
 # QAChallengeForBrite
+
  QA Challenge for Brite Interview
 
  Tasks to perform to complete the challenge can be found in the accompanying pdf file (https://github.com/magdalenammcc/QAChallengeForBrite/blob/main/2024-junior-qa-engineer-challenge.pdf)
@@ -9,9 +10,9 @@
  - Chrome browser (https://www.google.com/intl/es_es/chrome/)
  - Firefox browser (https://www.mozilla.org/es-ES/firefox/new/)
  - cypress plug-ins: 
-
-        - iframe (installation and use guidelines [here](https://www.npmjs.com/package/cypress-iframe) 
-        - dayjs (installation and use in [site](https://day.js.org/docs/en/installation/installation)
+ 
+        * iframe (installation and use guidelines [here](https://www.npmjs.com/package/cypress-iframe))
+        * dayjs (installation and use in [site](https://day.js.org/docs/en/installation/installation))
 
 We'll be using Cypress in "E2E" configuration because we'll be testing the full app, not just individual components. 
 
