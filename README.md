@@ -1,6 +1,6 @@
 # QAChallengeForBrite
 
- QA Challenge for Brite Interview
+ QA Challenge for Brite Interview / October 2024
 
  Tasks to perform to complete the challenge can be found in the accompanying pdf file (https://github.com/magdalenammcc/QAChallengeForBrite/blob/main/2024-junior-qa-engineer-challenge.pdf)
 
